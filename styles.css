@@ -100,7 +100,9 @@ ul { padding: 0; list-style: none; }
 }
 .brand-logo {
   width: 62px;
+  height: 66px;
   min-width: 62px;
+  object-fit: contain;
 }
 .brand-copy strong {
   display: block;
@@ -197,7 +199,6 @@ ul { padding: 0; list-style: none; }
   border-color: rgba(255,255,255,0.08);
   box-shadow: 0 22px 60px rgba(0,0,0,0.25);
 }
-.dark p,
 .dark li,
 .dark .section-note,
 .dark .body-copy { color: rgba(255,255,255,0.76); }
@@ -318,6 +319,7 @@ ul { padding: 0; list-style: none; }
   font-size: 1rem;
   line-height: 1.72;
 }
+.dark p { color: rgba(255,255,255,0.76); }
 .hero-card p + p,
 .card p + p,
 .timeline-card p + p,
@@ -417,15 +419,22 @@ ul { padding: 0; list-style: none; }
   justify-content: center;
   padding: 0;
   z-index: 4;
-  margin-top: -112px;
-  margin-left: -112px;
-  margin-right: -12px;
+  margin-top: -96px;
+  margin-left: 0;
+  margin-right: 0;
+  border-radius: 20px;
+  overflow: hidden;
+  background: var(--white);
+  border: 1px solid var(--line);
 }
 .portrait-stage img {
   position: relative;
   z-index: 1;
-  width: min(100%, 410px);
-  filter: drop-shadow(0 14px 20px rgba(0,0,0,0.04));
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center bottom;
 }
 .hero-compact .hero-card {
   padding-top: 24px;
@@ -549,7 +558,8 @@ ul { padding: 0; list-style: none; }
   border: 1px solid var(--line);
   background: rgba(255,255,255,0.65);
 }
-.stat-item strong { display: block; margin-top: 5px; font-size: 1.12rem; }
+.stat-item strong { display: block; margin-top: 5px; font-size: 1.12rem; overflow-wrap: anywhere; }
+.card h3, .list li { overflow-wrap: anywhere; }
 .timeline-card {
   min-height: 100%;
   position: relative;
@@ -570,6 +580,7 @@ ul { padding: 0; list-style: none; }
   letter-spacing: 0.16em;
   color: var(--accent-deep);
 }
+.dark .year { color: var(--accent-soft); }
 .quote-line {
   padding: 18px 0 0;
   border-top: 1px solid var(--line);
@@ -627,6 +638,7 @@ ul { padding: 0; list-style: none; }
   .hero-layout,
   .hero-layout-single { grid-template-columns: 1fr; }
   .intro-with-portrait { grid-template-columns: 1fr 0.72fr; }
+  .portrait-stage { margin-top: 0; }
   .hero-aside { min-height: 340px; }
   .section-watermark {
     width: min(42vw, 260px);
@@ -680,12 +692,14 @@ ul { padding: 0; list-style: none; }
     min-height: auto;
     justify-content: flex-start;
     padding-top: 0;
-    margin-top: -12px;
+    margin-top: 6px;
     margin-left: 0;
     margin-right: 0;
+    width: min(100%, 320px);
+    justify-self: center;
   }
   .portrait-stage img {
-    width: min(100%, 220px);
+    width: 100%;
   }
   .card,
   .hero-card,

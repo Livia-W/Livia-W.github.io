@@ -77,7 +77,7 @@ def read_xlsx(path):
 def main():
     records = read_xlsx(XLSX)
     data = {r['key']: {'zh': r['zh'], 'en': r['en'], 'de': r['de']} for r in records}
-    JS.write_text('window.SITE_CONTENT = ' + json.dumps(data, ensure_ascii=True, indent=2) + ';\n', encoding='utf-8')
+    JS.write_text('window.SITE_CONTENT = ' + json.dumps(data, ensure_ascii=True, indent=2) + ';\n', encoding='utf-8', newline='\n')
     print(f'Generated {JS} from {XLSX} ({len(records)} rows).')
 
 

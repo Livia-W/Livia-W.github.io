@@ -85,14 +85,14 @@ window.SITE_CONTENT = {
     "de": "Olivia"
   },
   "home_intro": {
-    "zh": "\u6211\u662f\u5434\u6c9b\u6021\uff0c\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u5fb7\u8bed\u4e13\u4e1a\u5728\u8bfb\uff0c\u8f85\u4fee\u5de5\u4e1a\u8bbe\u8ba1\u3002\u6211\u7684\u5174\u8da3\u96c6\u4e2d\u5728\u8bed\u8a00\u3001\u7814\u7a76\u4e0e\u89c6\u89c9\u8868\u8fbe\u7684\u4ea4\u53c9\u5730\u5e26\uff0c\u4e5f\u6301\u7eed\u5728\u5b66\u4e60\u5982\u4f55\u628a\u7406\u6027\u5206\u6790\u4e0e\u5ba1\u7f8e\u5224\u65ad\u653e\u8fdb\u540c\u4e00\u4e2a\u5de5\u4f5c\u65b9\u5f0f\u91cc\u3002",
-    "en": "I am Olivia Wu, a German Studies student at Shanghai Jiao Tong University with a minor in Industrial Design. My interests sit at the intersection of language, research, and visual communication, where analytical thinking and aesthetic judgment can work together.",
-    "de": "Ich bin Olivia Wu, studiere Germanistik an der Shanghai Jiao Tong University und belege Industriedesign als Nebenfach. Meine Interessen liegen an der Schnittstelle von Sprache, Forschung und visueller Kommunikation, wo analytisches Denken und \u00e4sthetisches Urteilen zusammenfinden."
+    "zh": "\u6211\u5728\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u4e3b\u4fee\u5fb7\u8bed\u3001\u8f85\u4fee\u5de5\u4e1a\u8bbe\u8ba1\uff0c\u5173\u6ce8\u8bed\u8a00\u3001\u8bbe\u8ba1\u4e0e\u8ba4\u77e5\u7684\u4ea4\u53c9\u9886\u57df\u3002\u4ee5\u5931\u8bed\u75c7\u53ca\u8ba4\u77e5\u3001\u5b66\u4e60\u5dee\u5f02\u4eba\u7fa4\u7684\u9700\u6c42\u4e3a\u51fa\u53d1\u70b9\uff0c\u6211\u63a2\u7d22\u591a\u6a21\u6001\u8bdd\u8bed\u5206\u6790\u3001\u8ba1\u7b97\u673a\u6587\u672c\u5206\u6790\u548c\u6df1\u5ea6\u5b66\u4e60\uff0c\u4ee5\u53ca\u8bbe\u8ba1\u5728\u751f\u6d3b\u4e0e\u5eb7\u590d\u573a\u666f\u4e2d\u7684\u5e94\u7528\u3002",
+    "en": "I study German at Shanghai Jiao Tong University with a minor in Industrial Design. I explore multimodal discourse, computational text analysis and deep learning, with a particular interest in aphasia and differences in cognition and learning.",
+    "de": "Ich studiere Germanistik an der Shanghai Jiao Tong University mit Industriedesign im Nebenfach. Ich besch\u00e4ftige mich mit multimodaler Diskursanalyse, computergest\u00fctzter Textanalyse und Deep Learning und interessiere mich besonders f\u00fcr Aphasie sowie Unterschiede im Denken und Lernen."
   },
   "home_tag_1": {
-    "zh": "\u5fb7\u8bed\u7814\u7a76",
-    "en": "German Studies",
-    "de": "Germanistik"
+    "zh": "\u5fb7\u8bed\u4e0e\u8bed\u8a00\u5b66",
+    "en": "German & Linguistics",
+    "de": "Germanistik & Linguistik"
   },
   "home_tag_2": {
     "zh": "\u5de5\u4e1a\u8bbe\u8ba1\u8f85\u4fee",
@@ -100,9 +100,9 @@ window.SITE_CONTENT = {
     "de": "Nebenfach Industriedesign"
   },
   "home_tag_3": {
-    "zh": "\u591a\u6a21\u6001\u7814\u7a76",
-    "en": "Multimodal Research",
-    "de": "Multimodale Forschung"
+    "zh": "\u8bed\u8a00 \u00b7 \u8bbe\u8ba1 \u00b7 \u8ba4\u77e5",
+    "en": "Language \u00b7 Design \u00b7 Cognition",
+    "de": "Sprache \u00b7 Design \u00b7 Kognition"
   },
   "home_btn_about": {
     "zh": "\u4e86\u89e3\u6211",
@@ -140,14 +140,14 @@ window.SITE_CONTENT = {
     "de": "Ein fokussierter Blick auf Fragen, Interessen und Methoden, zu denen ich immer wieder zur\u00fcckkehre."
   },
   "home_keywords_body": {
-    "zh": "\u6211\u66f4\u504f\u597d\u628a\u4e0d\u540c\u80fd\u529b\u653e\u5728\u4e00\u8d77\u4f7f\u7528\uff1a\u65e2\u80fd\u5904\u7406\u6587\u672c\u548c\u8bed\u8a00\u95ee\u9898\uff0c\u4e5f\u80fd\u505a\u7ed3\u6784\u5316\u8868\u8fbe\u4e0e\u89c6\u89c9\u6574\u7406\u3002",
-    "en": "I prefer to combine abilities: working with texts and languages while organizing information with structure and visual clarity.",
-    "de": "Ich verbinde gern unterschiedliche F\u00e4higkeiten: Text- und Sprachfragen bearbeiten und Informationen zugleich strukturiert sowie visuell klar ordnen."
+    "zh": "\u4ee5\u5fb7\u8bed\u548c\u8bed\u8a00\u5b66\u5b66\u4e60\u4e3a\u57fa\u7840\uff0c\u7ed3\u5408\u6587\u672c\u8ba1\u7b97\u3001\u591a\u6a21\u6001\u5206\u6790\u4e0e\u5de5\u4e1a\u8bbe\u8ba1\uff0c\u63a2\u7d22\u8bed\u8a00\u3001\u8bbe\u8ba1\u548c\u8ba4\u77e5\u4e4b\u95f4\u7684\u8054\u7cfb\u3002",
+    "en": "I bring language study, computational analysis and design together through research and practice. My experience includes multimodal discourse analysis, Tolstoy research and a large-model R&D internship.",
+    "de": "In Forschung und Praxis verbinde ich Sprachwissenschaft, computergest\u00fctzte Analyse und Design. Meine Erfahrungen umfassen multimodale Diskursanalyse, Tolstoi-Forschung und ein Forschungs- und Entwicklungspraktikum zu gro\u00dfen KI-Modellen."
   },
   "home_current_body": {
-    "zh": "\u6211\u5173\u5fc3\u8de8\u6587\u5316\u8868\u8fbe\u3001\u89c6\u89c9\u5206\u6790\u3001\u6587\u672c\u8ba1\u7b97\u548c\u771f\u5b9e\u573a\u666f\u4e2d\u7684\u6c9f\u901a\u65b9\u5f0f\uff0c\u4e5f\u5728\u6301\u7eed\u8bad\u7ec3\u81ea\u5df1\u7684\u5224\u65ad\u529b\u3001\u5ba1\u7f8e\u548c\u6267\u884c\u529b\u3002",
-    "en": "I care about cross-cultural expression, visual analysis, text computation, and communication in real contexts. I am also building judgment, taste, and execution through steady practice.",
-    "de": "Mich interessieren interkultureller Ausdruck, visuelle Analyse, Textverarbeitung und Kommunikation in realen Kontexten. Gleichzeitig sch\u00e4rfe ich Urteilskraft, Geschmack und Umsetzung durch kontinuierliche Praxis."
+    "zh": "\u6211\u5173\u6ce8\u591a\u6a21\u6001\u610f\u4e49\u8868\u8fbe\u3001\u8de8\u6587\u5316\u6587\u5b66\u7814\u7a76\u548c\u57fa\u4e8e\u8bed\u4e49\u6269\u5c55\u5de5\u5177\u7684\u7f51\u7edc\u8206\u8bba\u60c5\u611f\u5206\u6790\uff0c\u4e5f\u5e0c\u671b\u628a\u8bed\u8a00\u4e0e\u8bbe\u8ba1\u65b9\u6cd5\u5e26\u5165\u8ba4\u77e5\u3001\u5b66\u4e60\u5dee\u5f02\u4eba\u7fa4\u7684\u751f\u6d3b\u4e0e\u5eb7\u590d\u573a\u666f\u3002",
+    "en": "My interests connect language, design and cognition: from visual grammar and cross-cultural literary criticism to computational analysis of online sentiment. I hope to bring design into daily life and rehabilitation settings for people with different cognitive and learning needs.",
+    "de": "Meine Interessen verbinden Sprache, Design und Kognition: von visueller Grammatik und interkultureller Literaturkritik bis zur computergest\u00fctzten Analyse von Stimmungen im Internet. Ich m\u00f6chte erkunden, wie Design Menschen mit unterschiedlichen kognitiven Voraussetzungen und Lernbed\u00fcrfnissen im Alltag und in der Rehabilitation unterst\u00fctzen kann."
   },
   "home_quote": {
     "zh": "\u613f\u610f\u6295\u5165\u6709\u601d\u8003\u6df1\u5ea6\u7684\u5de5\u4f5c\uff0c\u4e5f\u613f\u610f\u957f\u671f\u6210\u957f\u3002",
@@ -165,14 +165,14 @@ window.SITE_CONTENT = {
     "de": "Olivia Wu"
   },
   "about_intro": {
-    "zh": "\u6211\u76ee\u524d\u5c31\u8bfb\u4e8e\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u5916\u56fd\u8bed\u5b66\u9662\uff0c\u4e3b\u4fee\u5fb7\u8bed\uff0c\u8f85\u4fee\u5de5\u4e1a\u8bbe\u8ba1\u3002\u5bf9\u6211\u6765\u8bf4\uff0c\u8bed\u8a00\u4e0d\u4ec5\u662f\u8868\u8fbe\u5de5\u5177\uff0c\u4e5f\u662f\u4e00\u79cd\u89c2\u5bdf\u4e16\u754c\u3001\u7406\u89e3\u7ed3\u6784\u3001\u5efa\u7acb\u8054\u7cfb\u7684\u65b9\u5f0f\u3002",
-    "en": "I study German at the School of Foreign Languages, Shanghai Jiao Tong University, with a minor in Industrial Design. For me, language is not only a tool for expression, but also a way to observe the world, understand structures, and build connections.",
-    "de": "Ich studiere Germanistik an der School of Foreign Languages der Shanghai Jiao Tong University und belege Industriedesign als Nebenfach. F\u00fcr mich ist Sprache nicht nur Ausdrucksmittel, sondern auch eine Art, die Welt zu beobachten, Strukturen zu verstehen und Verbindungen herzustellen."
+    "zh": "\u6211\u76ee\u524d\u5c31\u8bfb\u4e8e\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u5916\u56fd\u8bed\u5b66\u9662\uff0c\u4e3b\u4fee\u5fb7\u8bed\uff0c\u8f85\u4fee\u5de5\u4e1a\u8bbe\u8ba1\u3002\u5bf9\u5931\u8bed\u75c7\u7684\u5173\u6ce8\u662f\u6211\u7684\u51fa\u53d1\u70b9\uff1b\u6211\u5e0c\u671b\u7ed3\u5408\u8bed\u8a00\u3001\u8bbe\u8ba1\u4e0e\u8ba4\u77e5\u7684\u7814\u7a76\uff0c\u7406\u89e3\u8ba4\u77e5\u548c\u5b66\u4e60\u5dee\u5f02\u4eba\u7fa4\u7684\u9700\u6c42\u3002",
+    "en": "I am an undergraduate majoring in German at Shanghai Jiao Tong University's School of Foreign Languages, with a minor in Industrial Design. My interest in aphasia and differences in cognition and learning motivates me to explore connections between language, design and rehabilitation.",
+    "de": "Ich studiere Germanistik an der Fakult\u00e4t f\u00fcr Fremdsprachen der Shanghai Jiao Tong University mit Industriedesign im Nebenfach. Mein Interesse an Aphasie sowie Unterschieden im Denken und Lernen motiviert mich, Verbindungen zwischen Sprache, Design und Rehabilitation zu erkunden."
   },
   "about_background_body": {
-    "zh": "\u6211\u4e60\u60ef\u5728\u4e0d\u540c\u5b66\u79d1\u4e4b\u95f4\u5bfb\u627e\u8fde\u63a5\uff1a\u4e00\u8fb9\u4fdd\u6301\u8bed\u8a00\u5b66\u4e60\u4e0e\u7814\u7a76\u8bad\u7ec3\uff0c\u4e00\u8fb9\u901a\u8fc7\u8bbe\u8ba1\u65b9\u6cd5\u63d0\u5347\u4fe1\u606f\u7ec4\u7ec7\u3001\u89c6\u89c9\u5224\u65ad\u548c\u8868\u8fbe\u6548\u7387\u3002\u8fd9\u79cd\u4ea4\u53c9\u611f\uff0c\u4e5f\u662f\u6211\u6700\u81ea\u7136\u7684\u5b66\u4e60\u8def\u5f84\u3002",
-    "en": "I am used to finding connections between disciplines: maintaining language and research training while using design methods to improve information structure, visual judgment, and expressive efficiency.",
-    "de": "Ich suche gern Verbindungen zwischen Disziplinen: Sprach- und Forschungstraining bleiben die Grundlage, Designmethoden st\u00e4rken Informationsstruktur, visuelles Urteil und Ausdruckseffizienz."
+    "zh": "\u5728\u5fb7\u8bed\u5b66\u4e60\u4e4b\u5916\uff0c\u6211\u901a\u8fc7\u8bed\u8a00\u5b66\u3001\u8bed\u8a00\u75c5\u7406\u5b66\u3001\u8bed\u8a00\u7edf\u8ba1\u548c\u81ea\u7136\u8bed\u8a00\u5904\u7406\u7b49\u8bfe\u7a0b\u62d3\u5c55\u7814\u7a76\u65b9\u6cd5\uff0c\u5e76\u901a\u8fc7\u5de5\u4e1a\u8bbe\u8ba1\u8f85\u4fee\u5b66\u4e60\u8bbe\u8ba1\u8868\u8fbe\u3001\u4ea7\u54c1\u4fe1\u606f\u67b6\u6784\u4e0e\u4eba\u673a\u5de5\u7a0b\u5b66\u3002",
+    "en": "My studies connect German literature, writing, interpreting and translation with linguistics, language pathology, language statistics and natural language processing. Design courses broaden how I approach information, products and human needs.",
+    "de": "Mein Studium verbindet deutsche Literatur, Schreiben, Dolmetschen und \u00dcbersetzen mit Linguistik, Sprachpathologie, Sprachstatistik und nat\u00fcrlicher Sprachverarbeitung. Designkurse erweitern meinen Blick auf Informationen, Produkte und menschliche Bed\u00fcrfnisse."
   },
   "about_list_1": {
     "zh": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u5fb7\u8bed\u4e13\u4e1a\u5728\u8bfb",
@@ -185,9 +185,9 @@ window.SITE_CONTENT = {
     "de": "Nebenfach Industriedesign"
   },
   "about_list_3": {
-    "zh": "\u5173\u6ce8\u8de8\u6587\u5316\u8868\u8fbe\u4e0e\u89c6\u89c9\u53d9\u4e8b",
-    "en": "Interested in cross-cultural expression and visual narration",
-    "de": "Interesse an interkulturellem Ausdruck und visueller Erz\u00e4hlung"
+    "zh": "\u5173\u6ce8\u591a\u6a21\u6001\u8bdd\u8bed\u3001\u6587\u672c\u5206\u6790\u4e0e\u8ba4\u77e5\u5dee\u5f02",
+    "en": "Exploring language, design and cognition",
+    "de": "Sprache, Design und Kognition erkunden"
   },
   "about_profile_1": {
     "zh": "\u5bf9\u8bed\u8a00\u3001\u56fe\u50cf\u4e0e\u7ed3\u6784\u90fd\u4fdd\u6301\u654f\u611f",
@@ -205,9 +205,9 @@ window.SITE_CONTENT = {
     "de": "Freude daran, Komplexes klar auszudr\u00fccken"
   },
   "about_stat_german_value": {
-    "zh": "C1 (CEFR)",
-    "en": "C1 (CEFR)",
-    "de": "C1 (CEFR)"
+    "zh": "\u5fb7\u8bed\u4e13\u4e1a\u56db\u7ea7 \u00b7 C1\uff08CEFR\uff09",
+    "en": "German major examination (Level 4) \u00b7 C1 (CEFR)",
+    "de": "Germanistikpr\u00fcfung (Stufe 4) \u00b7 C1 (GER)"
   },
   "about_stat_english_value": {
     "zh": "IELTS 7.5 / CET-6 643",
@@ -220,24 +220,24 @@ window.SITE_CONTENT = {
     "de": "Python \u00b7 SPSS"
   },
   "about_stat_design_value": {
-    "zh": "Illustrator \u00b7 Photoshop \u00b7 Vegas Pro",
-    "en": "Illustrator \u00b7 Photoshop \u00b7 Vegas Pro",
-    "de": "Illustrator \u00b7 Photoshop \u00b7 Vegas Pro"
+    "zh": "Illustrator \u00b7 Photoshop \u00b7 Figma \u00b7 Autodesk Fusion 360 \u00b7 Vegas Pro",
+    "en": "Illustrator \u00b7 Photoshop \u00b7 Figma \u00b7 Fusion 360 \u00b7 Vegas Pro",
+    "de": "Illustrator \u00b7 Photoshop \u00b7 Figma \u00b7 Fusion 360 \u00b7 Vegas Pro"
   },
   "about_language_body": {
-    "zh": "\u6211\u91cd\u89c6\u8de8\u8bed\u79cd\u9605\u8bfb\u3001\u8868\u8fbe\u548c\u8bed\u5883\u7406\u89e3\uff0c\u4e5f\u5e0c\u671b\u628a\u8bed\u8a00\u80fd\u529b\u843d\u5230\u66f4\u5177\u4f53\u7684\u7814\u7a76\u548c\u5185\u5bb9\u5de5\u4f5c\u4e2d\u3002",
-    "en": "I value cross-lingual reading, expression, and contextual understanding, and I hope to apply language ability to concrete research and content work.",
-    "de": "Ich sch\u00e4tze mehrsprachiges Lesen, Ausdruck und Kontextverst\u00e4ndnis und m\u00f6chte Sprachkompetenz in konkrete Forschungs- und Inhaltsarbeit \u00fcbersetzen."
+    "zh": "\u5fb7\u8bed\u6587\u5b66\u3001\u5fb7\u8bed\u5199\u4f5c\u3001\u5fb7\u6c49\u53e3\u8bd1\u4e0e\u7b14\u8bd1\u3001\u5fb7\u8bed\u6f14\u8bb2\u3001\u5fb7\u56fd\u56fd\u60c5\u5b66\uff1b\u8bed\u8a00\u5b66\u3001\u8bed\u8a00\u75c5\u7406\u5b66\u3001\u8bed\u8a00\u7edf\u8ba1\u4e0e\u81ea\u7136\u8bed\u8a00\u5904\u7406\u3002",
+    "en": "German literature, German writing, German\u2013Chinese interpreting and translation, German public speaking and German national studies; linguistics, language pathology, language statistics and natural language processing.",
+    "de": "Deutsche Literatur, Schreiben auf Deutsch, deutsch-chinesisches Dolmetschen und \u00dcbersetzen, Rhetorik und deutsche Landeskunde; Linguistik, Sprachpathologie, Sprachstatistik und nat\u00fcrliche Sprachverarbeitung."
   },
   "about_design_body": {
-    "zh": "\u6211\u559c\u6b22\u6e05\u6670\u3001\u6709\u79e9\u5e8f\u3001\u7559\u767d\u5145\u5206\u7684\u89c6\u89c9\u7ed3\u6784\uff0c\u504f\u7231\u9ed1\u767d\u4e3b\u4f53\u548c\u5c11\u91cf\u91cd\u70b9\u8272\u7684\u8bbe\u8ba1\u65b9\u5f0f\u3002",
-    "en": "I prefer clean, structured visual systems with enough white space, often built from black, white, and a limited accent color.",
-    "de": "Ich bevorzuge klare, geordnete visuelle Systeme mit ausreichend Wei\u00dfraum, meist aus Schwarz, Wei\u00df und einer gezielten Akzentfarbe."
+    "zh": "\u8f85\u4fee\u8bfe\u7a0b\u5305\u62ec\u8bbe\u8ba1\u8868\u8fbe\u3001\u4ea7\u54c1\u4fe1\u606f\u67b6\u6784\u4e0e\u4eba\u673a\u5de5\u7a0b\u5b66\uff0c\u5b66\u4e60\u628a\u8bbe\u8ba1\u65b9\u6cd5\u5e94\u7528\u4e8e\u4fe1\u606f\u7ec4\u7ec7\u548c\u4eba\u4e0e\u4ea7\u54c1\u7684\u4ea4\u4e92\u3002",
+    "en": "Design expression, product information architecture and ergonomics.",
+    "de": "Gestalterische Darstellung, Informationsarchitektur von Produkten und Ergonomie."
   },
   "about_interest_body": {
-    "zh": "\u9664\u4e13\u4e1a\u65b9\u5411\u5916\uff0c\u6211\u4e5f\u957f\u671f\u5173\u6ce8\u8fd0\u52a8\u4e0e\u8425\u517b\u7ba1\u7406\uff0c\u8fd9\u8ba9\u6211\u66f4\u91cd\u89c6\u8282\u594f\u3001\u7a33\u5b9a\u548c\u957f\u671f\u4e3b\u4e49\u3002",
-    "en": "Beyond my academic interests, I care about sports and nutrition management, which makes me value rhythm, stability, and long-term discipline.",
-    "de": "Neben meinen akademischen Interessen besch\u00e4ftige ich mich mit Sport und Ern\u00e4hrung; das st\u00e4rkt meinen Sinn f\u00fcr Rhythmus, Stabilit\u00e4t und langfristige Disziplin."
+    "zh": "\u540c\u65f6\u5b66\u4e60\u6750\u6599\u4e0e\u751f\u6001\u3001\u8d27\u5e01\u91d1\u878d\u5b66\u7b49\u8bfe\u7a0b\uff0c\u4ece\u6750\u6599\u3001\u73af\u5883\u548c\u793e\u4f1a\u7ecf\u6d4e\u7684\u89c6\u89d2\u62d3\u5c55\u5bf9\u95ee\u9898\u7684\u7406\u89e3\u3002",
+    "en": "Materials and ecology, and monetary finance extend my studies beyond language and design.",
+    "de": "Materialien und \u00d6kologie sowie Geld- und Finanzwirtschaft erg\u00e4nzen mein Studium \u00fcber Sprache und Design hinaus."
   },
   "strengths_top_left": {
     "zh": "\u6838\u5fc3\u4f18\u52bf",
@@ -260,9 +260,9 @@ window.SITE_CONTENT = {
     "de": "Deutsch und Englisch erm\u00f6glichen mir mehrsprachiges Lesen, akademischen Ausdruck und Arbeit in multikulturellen Kontexten; zugleich sch\u00e4rfen sie mein Gef\u00fchl f\u00fcr Pr\u00e4zision."
   },
   "strength_language_1": {
-    "zh": "\u5fb7\u8bed C1\uff08CEFR\uff09",
-    "en": "German C1 (CEFR)",
-    "de": "Deutsch C1 (CEFR)"
+    "zh": "\u5fb7\u8bed\u4e13\u4e1a\u56db\u7ea7 \u00b7 C1\uff08CEFR\uff09",
+    "en": "German major examination (Level 4) \u00b7 C1 (CEFR)",
+    "de": "Germanistikpr\u00fcfung (Stufe 4) \u00b7 C1 (GER)"
   },
   "strength_language_2": {
     "zh": "\u82f1\u8bed\u96c5\u601d 7.5 / CET-6 643",
@@ -270,29 +270,29 @@ window.SITE_CONTENT = {
     "de": "Englisch IELTS 7.5 / CET-6 643"
   },
   "strength_language_3": {
-    "zh": "\u517c\u5177\u5b66\u672f\u4e0e\u65e5\u5e38\u8868\u8fbe\u7684\u5207\u6362\u80fd\u529b",
-    "en": "Able to switch between academic and everyday expression",
-    "de": "Wechsel zwischen akademischem und allt\u00e4glichem Ausdruck"
+    "zh": "\u53c2\u4e0e\u7b2c\u5341\u56db\u5c4a\u5168\u56fd\u9ad8\u6821\u5fb7\u8bed\u8fa9\u8bba\u8d5b",
+    "en": "Participant in the 14th National German Debating Competition for University Students (2024)",
+    "de": "Teilnahme am 14. Nationalen Deutsch-Debattierwettbewerb f\u00fcr Studierende (2024)"
   },
   "strength_research_body": {
-    "zh": "\u6211\u5bf9\u95ee\u9898\u7684\u5174\u8da3\u5f80\u5f80\u6765\u81ea\u7ed3\u6784\uff1a\u6587\u672c\u5982\u4f55\u7ec4\u7ec7\u610f\u4e49\uff0c\u56fe\u50cf\u5982\u4f55\u53c2\u4e0e\u53d9\u8ff0\uff0c\u6570\u636e\u5982\u4f55\u5e2e\u52a9\u89e3\u91ca\u73b0\u8c61\u3002",
-    "en": "My interest in questions often starts from structure: how texts organize meaning, how images participate in narration, and how data helps explain phenomena.",
-    "de": "Mein Interesse an Fragen beginnt oft bei Strukturen: wie Texte Bedeutung ordnen, wie Bilder an Erz\u00e4hlungen teilnehmen und wie Daten Ph\u00e4nomene erkl\u00e4ren helfen."
+    "zh": "\u7ed3\u5408\u8bed\u8a00\u5b66\u7406\u8bba\u4e0e\u8ba1\u7b97\u65b9\u6cd5\uff0c\u5173\u6ce8\u591a\u6a21\u6001\u8bdd\u8bed\u3001\u8de8\u6587\u5316\u6587\u5b66\u7814\u7a76\u3001\u7f51\u7edc\u8206\u8bba\u60c5\u611f\u5206\u6790\u4e0e\u53e3\u8bed\u8bc4\u4ef7\u3002",
+    "en": "I explore language and meaning through linguistic theory and computational analysis. My experience includes Shanghai Jiao Tong University's Student Innovation Practice Program, researching Anglo-American Tolstoy scholarship in the second half of the 20th century.",
+    "de": "Ich erforsche Sprache und Bedeutung mit linguistischer Theorie und computergest\u00fctzten Methoden. Im studentischen Innovationsprogramm der Shanghai Jiao Tong University besch\u00e4ftige ich mich mit der angloamerikanischen Tolstoi-Forschung in der zweiten H\u00e4lfte des 20. Jahrhunderts."
   },
   "strength_research_1": {
-    "zh": "\u591a\u6a21\u6001\u8bdd\u8bed\u5206\u6790",
-    "en": "Multimodal discourse analysis",
-    "de": "Multimodale Diskursanalyse"
+    "zh": "\u57fa\u4e8e\u89c6\u89c9\u8bed\u6cd5\u7406\u8bba\u7684\u591a\u6a21\u6001\u8bdd\u8bed\u5206\u6790",
+    "en": "Multimodal discourse analysis based on visual grammar",
+    "de": "Multimodale Diskursanalyse auf Grundlage visueller Grammatik"
   },
   "strength_research_2": {
-    "zh": "\u6bd4\u8f83\u6587\u5b66\u4e0e\u7ffb\u8bd1",
-    "en": "Comparative literature and translation",
-    "de": "Komparatistik und \u00dcbersetzung"
+    "zh": "\u53c2\u4e0e\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u5927\u5b66\u751f\u521b\u65b0\u5b9e\u8df5\u8ba1\u5212\uff1a20\u4e16\u7eaa\u4e0b\u534a\u53f6\u82f1\u7f8e\u6258\u5c14\u65af\u6cf0\u7814\u7a76",
+    "en": "Anglo-American Tolstoy scholarship in the second half of the 20th century",
+    "de": "Angloamerikanische Tolstoi-Forschung in der zweiten H\u00e4lfte des 20. Jahrhunderts"
   },
   "strength_research_3": {
-    "zh": "\u8bed\u6599\u4e0e\u6587\u672c\u8ba1\u7b97",
-    "en": "Corpus work and text computation",
-    "de": "Korpusarbeit und Textverarbeitung"
+    "zh": "\u57fa\u4e8e\u8bed\u4e49\u6269\u5c55\u5de5\u5177\u7684\u7f51\u7edc\u8206\u8bba\u60c5\u611f\u6548\u5ea6\u4e0e\u5524\u9192\u5ea6\u5206\u6790",
+    "en": "Online sentiment validity and arousal analysis with semantic expansion tools",
+    "de": "Analyse von Valenz und Erregungsgrad in Online-Diskursen mit Werkzeugen zur semantischen Erweiterung"
   },
   "strength_design_body": {
     "zh": "\u6211\u559c\u6b22\u6709\u79e9\u5e8f\u3001\u91cd\u70b9\u9c9c\u660e\u7684\u89c6\u89c9\u8868\u8fbe\uff0c\u4e5f\u4e50\u4e8e\u628a\u96f6\u6563\u4fe1\u606f\u6574\u7406\u6210\u66f4\u5177\u9605\u8bfb\u8282\u594f\u7684\u9875\u9762\u6216\u7248\u9762\u3002",
@@ -300,19 +300,19 @@ window.SITE_CONTENT = {
     "de": "Ich mag geordnete, fokussierte visuelle Darstellung und ordne verstreute Informationen gern zu Seiten mit Rhythmus und Klarheit."
   },
   "strength_design_1": {
-    "zh": "Illustrator / Photoshop / Vegas Pro",
-    "en": "Illustrator / Photoshop / Vegas Pro",
-    "de": "Illustrator / Photoshop / Vegas Pro"
+    "zh": "Illustrator \u00b7 Photoshop",
+    "en": "Illustrator \u00b7 Photoshop",
+    "de": "Illustrator \u00b7 Photoshop"
   },
   "strength_design_2": {
-    "zh": "UI / UX \u57fa\u7840\u5e94\u7528",
-    "en": "Basic UI / UX application",
-    "de": "Grundlagen von UI / UX"
+    "zh": "Figma \u00b7 Autodesk Fusion 360",
+    "en": "Figma \u00b7 Fusion 360",
+    "de": "Figma \u00b7 Fusion 360"
   },
   "strength_design_3": {
-    "zh": "\u5173\u6ce8\u4eba\u6587\u89c6\u89d2\u4e0e\u8ba4\u77e5\u5fc3\u7406",
-    "en": "Focusing on the humanities and cognitive perspective",
-    "de": "Fokus auf geisteswissenschaftliche und kognitive Perspektiven"
+    "zh": "Vegas Pro",
+    "en": "Vegas Pro",
+    "de": "Vegas Pro"
   },
   "strength_collab_body": {
     "zh": "\u5728\u5b9e\u8df5\u573a\u666f\u91cc\uff0c\u6211\u66f4\u5173\u6ce8\u6c9f\u901a\u5bf9\u8c61\u3001\u4efb\u52a1\u8282\u594f\u548c\u4fe1\u606f\u6e05\u6670\u5ea6\uff0c\u613f\u610f\u8ba4\u771f\u63a8\u8fdb\u6bcf\u4e00\u4e2a\u5177\u4f53\u73af\u8282\u3002",
@@ -355,9 +355,9 @@ window.SITE_CONTENT = {
     "de": "Bildung & Praxis"
   },
   "journey_intro": {
-    "zh": "\u6211\u7684\u6210\u957f\u8def\u5f84\u5e76\u4e0d\u662f\u5355\u7ebf\u6761\u7684\uff0c\u800c\u662f\u5728\u5b66\u4e60\u3001\u7814\u7a76\u548c\u73b0\u5b9e\u573a\u666f\u4e2d\u9010\u6e10\u53e0\u52a0\u51fa\u6765\u7684\u3002",
-    "en": "My growth is not a single line, but something layered through education, research, and real-world practice.",
-    "de": "Mein Wachstum verl\u00e4uft nicht eindimensional, sondern entsteht aus Bildung, Forschung und realer Praxis."
+    "zh": "\u4ece\u5fb7\u8bed\u4e0e\u5de5\u4e1a\u8bbe\u8ba1\u7684\u5b66\u4e60\uff0c\u5230\u7814\u7a76\u9879\u76ee\u3001\u8fa9\u8bba\u8d5b\u3001\u5927\u6a21\u578b\u7814\u53d1\u5b9e\u4e60\u548c\u8a00\u8bed\u5eb7\u590d\u89c1\u4e60\uff0c\u6211\u9010\u6b65\u63a2\u7d22\u8bed\u8a00\u3001\u8bbe\u8ba1\u4e0e\u8ba4\u77e5\u4e4b\u95f4\u7684\u8054\u7cfb\u3002",
+    "en": "My experience connects German studies and Industrial Design with research, a large-model R&D internship, clinical observation and volunteer teaching.",
+    "de": "Mein Werdegang verbindet Germanistik und Industriedesign mit Forschung, einem Forschungs- und Entwicklungspraktikum zu gro\u00dfen KI-Modellen, klinischer Hospitation und ehrenamtlichem Unterricht."
   },
   "journey_school_body": {
     "zh": "\u5728\u7a33\u5b9a\u7684\u5916\u8bed\u5b66\u4e60\u73af\u5883\u4e2d\uff0c\u9010\u6e10\u5f62\u6210\u5bf9\u8bed\u8a00\u3001\u8868\u8fbe\u4e0e\u8de8\u6587\u5316\u7406\u89e3\u7684\u57fa\u7840\u80fd\u529b\u3002",
@@ -370,24 +370,24 @@ window.SITE_CONTENT = {
     "de": "Das Germanistikstudium mit Nebenfach Industriedesign verbindet sprachliches Training und visuellen Ausdruck in der Praxis."
   },
   "journey_focus_body": {
-    "zh": "\u9010\u6b65\u628a\u591a\u6a21\u6001\u5206\u6790\u3001\u7ffb\u8bd1\u3001\u8bed\u6599\u4e0e\u81ea\u52a8\u5316\u8bed\u8a00\u6d4b\u8bd5\u7eb3\u5165\u81ea\u5df1\u7684\u5b66\u4e60\u89c6\u91ce\u3002",
-    "en": "I am gradually bringing multimodal analysis, translation, corpus work, and automated language testing into my learning horizon.",
-    "de": "Nach und nach nehme ich multimodale Analyse, \u00dcbersetzung, Korpusarbeit und automatisierte Sprachtests in meinen Lernhorizont auf."
+    "zh": "\u53c2\u4e0e\u5168\u56fd\u9ad8\u6821\u5fb7\u8bed\u8fa9\u8bba\u8d5b\uff0c\u953b\u70bc\u6c9f\u901a\u6f14\u8bb2\u4e0e\u4e34\u573a\u5e94\u53d8\u80fd\u529b\u3002",
+    "en": "Participated in the 14th National German Debating Competition for University Students, developing public speaking, communication and the ability to respond in the moment.",
+    "de": "Durch die Teilnahme am 14. Nationalen Deutsch-Debattierwettbewerb f\u00fcr Studierende habe ich meine F\u00e4higkeiten im freien Sprechen, in der Kommunikation und im spontanen Reagieren weiterentwickelt."
   },
   "journey_hospital_body": {
-    "zh": "\u5728\u8bed\u8a00\u5eb7\u590d\u573a\u666f\u4e2d\u89c2\u5bdf\u771f\u5b9e\u6c9f\u901a\u95ee\u9898\uff0c\u8bad\u7ec3\u5bf9\u5bf9\u8c61\u9700\u6c42\u548c\u6c9f\u901a\u65b9\u5f0f\u7684\u654f\u611f\u5ea6\u3002",
-    "en": "Observing real communication issues in a speech rehabilitation setting helped me become more sensitive to needs and interaction methods.",
-    "de": "Die Beobachtung realer Kommunikationsprobleme in der Sprachrehabilitation machte mich sensibler f\u00fcr Bed\u00fcrfnisse und Interaktionsweisen."
+    "zh": "\u53c2\u4e0e\u8a00\u8bed\u8bed\u8a00\u6cbb\u7597\u4e34\u5e8a\u89c2\u6469\uff0c\u5173\u6ce8\u771f\u5b9e\u5eb7\u590d\u573a\u666f\u4e2d\u7684\u6c9f\u901a\u9700\u6c42\u3002",
+    "en": "Observed clinical speech and language therapy at Shanghai Yangzhi Rehabilitation Hospital (\u4e0a\u6d77\u517b\u5fd7\u5eb7\u590d\u533b\u9662).",
+    "de": "Ich hospitierte in der klinischen Sprech- und Sprachtherapie am Shanghai Yangzhi Rehabilitation Hospital (\u4e0a\u6d77\u517b\u5fd7\u5eb7\u590d\u533b\u9662)."
   },
   "journey_volunteer_body": {
-    "zh": "\u5728\u517b\u8001\u9662\u91c7\u8bbf\u4e0e\u5ba3\u4f20\u4e2d\u5b66\u4e60\u503e\u542c\u3001\u6574\u7406\u548c\u4f20\u8fbe\uff0c\u4e5f\u66f4\u7406\u89e3\u8868\u8fbe\u80cc\u540e\u7684\u793e\u4f1a\u610f\u4e49\u3002",
-    "en": "Through interviews and communication work in elderly-care volunteering, I learned to listen, organize, and convey stories with care.",
-    "de": "Durch Interviews und Kommunikationsarbeit im Seniorenbereich lernte ich, zuzuh\u00f6ren, zu ordnen und Geschichten achtsam zu vermitteln."
+    "zh": "\u53c2\u4e0e\u201c\u8001\u53cb\u9752\u5e74\u201d\u516c\u76ca\u5fd7\u613f\u670d\u52a1\u56e2\u961f\uff0c\u5728\u793e\u4f1a\u5b9e\u8df5\u4e2d\u5b66\u4e60\u503e\u542c\u4e0e\u6c9f\u901a\u3002",
+    "en": "Participated in public-service volunteering with the \u201c\u8001\u53cb\u9752\u5e74\u201d team.",
+    "de": "Ich engagierte mich im gemeinn\u00fctzigen Freiwilligenteam \u201e\u8001\u53cb\u9752\u5e74\u201c."
   },
   "journey_tutoring_body": {
-    "zh": "\u5728\u8fdc\u7a0b\u573a\u666f\u4e2d\u4fdd\u6301\u8010\u5fc3\u3001\u6e05\u6670\u4e0e\u8d23\u4efb\u611f\uff0c\u628a\u77e5\u8bc6\u548c\u60c5\u7eea\u90fd\u4f20\u9012\u5f97\u66f4\u7a33\u5b9a\u3002",
-    "en": "Online tutoring taught me to remain patient, clear, and responsible in a remote setting.",
-    "de": "Online-Unterricht lehrte mich, in Distanzsituationen geduldig, klar und verantwortungsvoll zu bleiben."
+    "zh": "\u53c2\u4e0e\u201c\u601d\u6e90\u6d31\u6e90\u00b7\u7231\u5fc3\u76f8\u8fde\u201d\u7ebf\u4e0a\u652f\u6559\u56e2\uff0c\u901a\u8fc7\u8fdc\u7a0b\u6559\u5b66\u5b9e\u8df5\u8bed\u8a00\u8868\u8fbe\u4e0e\u6c9f\u901a\u3002",
+    "en": "Participated in the \u201c\u601d\u6e90\u6d31\u6e90\u00b7\u7231\u5fc3\u76f8\u8fde\u201d online volunteer teaching team.",
+    "de": "Ich wirkte im Team \u201e\u601d\u6e90\u6d31\u6e90\u00b7\u7231\u5fc3\u76f8\u8fde\u201c f\u00fcr ehrenamtlichen Online-Unterricht mit."
   },
   "journey_closing_body": {
     "zh": "\u5bf9\u6211\u800c\u8a00\uff0c\u7ecf\u5386\u6700\u91cd\u8981\u7684\u90e8\u5206\u4e0d\u662f\u6570\u91cf\uff0c\u800c\u662f\u5b83\u4eec\u5982\u4f55\u6162\u6162\u5851\u9020\u6211\u7684\u5224\u65ad\u65b9\u5f0f\u3001\u5de5\u4f5c\u4e60\u60ef\u548c\u89c2\u5bdf\u89d2\u5ea6\u3002",
@@ -405,29 +405,29 @@ window.SITE_CONTENT = {
     "de": "Olivia Wu"
   },
   "focus_intro": {
-    "zh": "\u6709\u4e9b\u4e3b\u9898\u4f1a\u53cd\u590d\u51fa\u73b0\uff1a\u8bed\u8a00\u5982\u4f55\u7ec4\u7ec7\u610f\u4e49\uff0c\u56fe\u50cf\u5982\u4f55\u53c2\u4e0e\u53d9\u8ff0\uff0c\u7814\u7a76\u5982\u4f55\u8f6c\u5316\u4e3a\u6e05\u695a\u7684\u8868\u8fbe\u3002",
-    "en": "Some themes keep returning: how language organizes meaning, how images participate in narration, and how research turns into clear expression.",
-    "de": "Manche Themen kehren immer wieder: wie Sprache Bedeutung ordnet, wie Bilder an Erz\u00e4hlung teilnehmen und wie Forschung zu klarem Ausdruck wird."
+    "zh": "\u6211\u5173\u6ce8\u8bed\u8a00\u3001\u8bbe\u8ba1\u4e0e\u8ba4\u77e5\u7684\u4ea4\u53c9\u9886\u57df\uff0c\u4ece\u89c6\u89c9\u8bed\u6cd5\u548c\u8de8\u6587\u5316\u6587\u5b66\uff0c\u5230\u6587\u672c\u8ba1\u7b97\u4e0e\u53e3\u8bed\u8bc4\u4ef7\uff0c\u63a2\u7d22\u7814\u7a76\u5982\u4f55\u56de\u5e94\u771f\u5b9e\u7684\u8868\u8fbe\u4e0e\u6c9f\u901a\u9700\u6c42\u3002",
+    "en": "I explore the intersection of language, design and cognition through multimodal discourse analysis, literary research, computational text analysis and language assessment.",
+    "de": "Ich erkunde die Schnittstellen von Sprache, Design und Kognition durch multimodale Diskursanalyse, Literaturforschung, computergest\u00fctzte Textanalyse und die Bewertung sprachlicher Kompetenzen."
   },
   "focus_multimodal_body": {
-    "zh": "\u6211\u5173\u6ce8\u6587\u5b57\u3001\u56fe\u50cf\u3001\u7248\u5f0f\u548c\u8bed\u5883\u5982\u4f55\u5171\u540c\u5f71\u54cd\u610f\u4e49\u751f\u6210\u4e0e\u4f20\u64ad\u6548\u679c\u3002",
-    "en": "I am interested in how text, image, layout, and context together shape meaning and communication effects.",
-    "de": "Mich interessiert, wie Text, Bild, Layout und Kontext gemeinsam Bedeutung und Wirkung formen."
+    "zh": "\u57fa\u4e8e\u89c6\u89c9\u8bed\u6cd5\u7406\u8bba\uff0c\u7814\u7a76\u6587\u5b57\u3001\u56fe\u50cf\u4e0e\u7248\u5f0f\u5982\u4f55\u5171\u540c\u6784\u5efa\u610f\u4e49\uff0c\u5f00\u5c55\u591a\u6a21\u6001\u8bdd\u8bed\u5206\u6790\u3002",
+    "en": "I explore multimodal discourse analysis through visual grammar, examining how text and images work together to create meaning.",
+    "de": "Auf Grundlage visueller Grammatik untersuche ich in der multimodalen Diskursanalyse, wie Texte und Bilder gemeinsam Bedeutung erzeugen."
   },
   "focus_translation_body": {
-    "zh": "\u6211\u5bf9\u6bd4\u8f83\u6587\u5b66\u3001\u7ffb\u8bd1\u4e0e\u8de8\u6587\u5316\u6d41\u901a\u611f\u5174\u8da3\uff0c\u5c24\u5176\u5728\u6587\u672c\u8fdb\u5165\u4e0d\u540c\u8bed\u5883\u4e4b\u540e\u7684\u53d8\u5316\u3002",
-    "en": "I am interested in comparative literature, translation, and cross-cultural circulation, especially what changes when texts enter new contexts.",
-    "de": "Mich interessieren Komparatistik, \u00dcbersetzung und interkulturelle Zirkulation, besonders Ver\u00e4nderungen von Texten in neuen Kontexten."
+    "zh": "\u53c2\u4e0e\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u5927\u5b66\u751f\u521b\u65b0\u5b9e\u8df5\u8ba1\u5212\uff0c\u7814\u7a7620\u4e16\u7eaa\u4e0b\u534a\u53f6\u82f1\u7f8e\u6258\u5c14\u65af\u6cf0\u7814\u7a76\uff0c\u63a2\u7d22\u6587\u5b66\u6279\u8bc4\u7684\u8de8\u6587\u5316\u3001\u8de8\u5b66\u79d1\u8109\u7edc\u3002",
+    "en": "Through Shanghai Jiao Tong University's Student Innovation Practice Program, I research Anglo-American Tolstoy scholarship in the second half of the 20th century, exploring the cross-cultural and interdisciplinary contexts of literary criticism.",
+    "de": "Im studentischen Innovationsprogramm der Shanghai Jiao Tong University erforsche ich die angloamerikanische Tolstoi-Rezeption in der zweiten H\u00e4lfte des 20. Jahrhunderts. Dabei untersuche ich die interkulturellen und interdisziplin\u00e4ren Zusammenh\u00e4nge der Literaturkritik."
   },
   "focus_corpus_body": {
-    "zh": "\u6211\u4e5f\u60f3\u7ee7\u7eed\u63a2\u7d22\u8bed\u6599\u3001\u6587\u672c\u5411\u91cf\u548c\u81ea\u52a8\u5316\u8bed\u8a00\u6d4b\u8bd5\uff0c\u8ba9\u7814\u7a76\u4e0d\u6b62\u505c\u7559\u5728\u6982\u5ff5\u5c42\u9762\u3002",
-    "en": "I also want to keep exploring corpora, text vectors, and automated language testing so research can move beyond concepts.",
-    "de": "Ich m\u00f6chte Korpora, Textvektoren und automatisierte Sprachtests weiter erkunden, damit Forschung \u00fcber Konzepte hinausgeht."
+    "zh": "\u57fa\u4e8e\u8bed\u4e49\u6269\u5c55\u5de5\u5177\uff0c\u63a2\u7d22\u7f51\u7edc\u8206\u8bba\u60c5\u611f\u6548\u5ea6\u4e0e\u5524\u9192\u5ea6\u5206\u6790\uff0c\u5173\u6ce8 SentenceTransformer \u5de5\u5177\u5728\u6587\u672c\u5206\u6790\u4e2d\u7684\u5e94\u7528\u3002",
+    "en": "I explore online sentiment validity and arousal using semantic expansion tools, including SentenceTransformer tools.",
+    "de": "Mit Werkzeugen zur semantischen Erweiterung, darunter SentenceTransformer, untersuche ich Valenz und Erregungsgrad in Online-Diskursen."
   },
   "focus_direction_body": {
-    "zh": "\u6bd4\u8d77\u6025\u4e8e\u5b9a\u4e49\u81ea\u5df1\uff0c\u6211\u66f4\u5e0c\u671b\u6301\u7eed\u79ef\u7d2f\u5224\u65ad\u529b\u3001\u65b9\u6cd5\u610f\u8bc6\u548c\u8db3\u591f\u7a33\u5b9a\u7684\u8868\u8fbe\u98ce\u683c\u3002",
-    "en": "Rather than defining myself too quickly, I want to keep building judgment, methodological awareness, and a stable expressive style.",
-    "de": "Statt mich vorschnell zu definieren, m\u00f6chte ich Urteilskraft, Methodenbewusstsein und einen stabilen Ausdrucksstil weiter aufbauen."
+    "zh": "\u5bf9\u5931\u8bed\u75c7\u7684\u5173\u6ce8\u662f\u6211\u7684\u51fa\u53d1\u70b9\u3002\u6211\u5e0c\u671b\u7406\u89e3\u8ba4\u77e5\u548c\u5b66\u4e60\u5dee\u5f02\u4eba\u7fa4\u7684\u9700\u6c42\uff0c\u63a2\u7d22\u5982\u4f55\u5c06\u8bbe\u8ba1\u878d\u5165\u65e5\u5e38\u751f\u6d3b\u4e0e\u5eb7\u590d\u573a\u666f\u3002",
+    "en": "My interest in aphasia extends to people with differences in cognition and learning. I hope to explore how design can support their daily lives and rehabilitation settings.",
+    "de": "Mein Interesse an Aphasie umfasst auch die Bed\u00fcrfnisse von Menschen mit unterschiedlichen kognitiven Voraussetzungen und Lernbed\u00fcrfnissen. Ich m\u00f6chte erkunden, wie Design ihren Alltag und ihre Rehabilitation unterst\u00fctzen kann."
   },
   "brand_name": {
     "zh": "OLIVIA WU",
@@ -471,8 +471,8 @@ window.SITE_CONTENT = {
   },
   "home_keywords_title": {
     "zh": "\u8bed\u8a00 \u00d7 \u7814\u7a76 \u00d7 \u8bbe\u8ba1",
-    "en": "Language ? Research ? Design",
-    "de": "Language ? Research ? Design"
+    "en": "Language \u00d7 Research \u00d7 Design",
+    "de": "Sprache \u00d7 Forschung \u00d7 Design"
   },
   "home_current_script": {
     "zh": "Current",
@@ -580,19 +580,19 @@ window.SITE_CONTENT = {
     "de": "Design Tools"
   },
   "about_card_language": {
-    "zh": "\u8bed\u8a00",
-    "en": "Language",
-    "de": "Language"
+    "zh": "\u5fb7\u8bed\u4e0e\u8bed\u8a00\u5b66\u8bfe\u7a0b",
+    "en": "Core Courses",
+    "de": "Studienschwerpunkte"
   },
   "about_card_design": {
-    "zh": "\u8bbe\u8ba1",
-    "en": "Design",
-    "de": "Design"
+    "zh": "\u5de5\u4e1a\u8bbe\u8ba1\u8bfe\u7a0b",
+    "en": "Industrial Design Courses",
+    "de": "Kurse im Industriedesign"
   },
   "about_card_interest": {
-    "zh": "\u5174\u8da3",
-    "en": "Interest",
-    "de": "Interest"
+    "zh": "\u8de8\u5b66\u79d1\u5b66\u4e60",
+    "en": "Interdisciplinary Electives",
+    "de": "Interdisziplin\u00e4re Wahlf\u00e4cher"
   },
   "strength_script": {
     "zh": "Core strengths",
@@ -655,9 +655,9 @@ window.SITE_CONTENT = {
     "de": "Journey"
   },
   "journey_year_school": {
-    "zh": "2016.06 ? 2023.08",
-    "en": "2016.06 ? 2023.08",
-    "de": "2016.06 ? 2023.08"
+    "zh": "2016.06 \u2013 2023.08",
+    "en": "2016.06 \u2013 2023.08",
+    "de": "2016.06 \u2013 2023.08"
   },
   "journey_school_title": {
     "zh": "\u6d66\u4e1c\u5916\u56fd\u8bed\u5b66\u6821",
@@ -665,9 +665,9 @@ window.SITE_CONTENT = {
     "de": "Pudong Foreign Languages School"
   },
   "journey_year_university": {
-    "zh": "2023.08 ? Now",
-    "en": "2023.08 ? Now",
-    "de": "2023.08 ? Now"
+    "zh": "2023.08 \u2013 \u81f3\u4eca",
+    "en": "2023.08 \u2013 present",
+    "de": "2023.08 \u2013 heute"
   },
   "journey_university_title": {
     "zh": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66",
@@ -675,29 +675,29 @@ window.SITE_CONTENT = {
     "de": "Shanghai Jiao Tong University"
   },
   "journey_year_focus": {
-    "zh": "Academic Focus",
-    "en": "Academic Focus",
-    "de": "Academic Focus"
+    "zh": "2024",
+    "en": "2024",
+    "de": "2024"
   },
   "journey_focus_title": {
-    "zh": "\u7814\u7a76\u5174\u8da3\u5ef6\u5c55",
-    "en": "Research interests",
-    "de": "Research interests"
+    "zh": "\u7b2c\u5341\u56db\u5c4a\u5168\u56fd\u9ad8\u6821\u5fb7\u8bed\u8fa9\u8bba\u8d5b",
+    "en": "14th National German Debating Competition",
+    "de": "14. Nationaler Deutsch-Debattierwettbewerb"
   },
   "journey_hospital_title": {
-    "zh": "\u533b\u9662\u89c1\u4e60",
-    "en": "Hospital observation",
-    "de": "Hospital observation"
+    "zh": "\u8a00\u8bed\u5eb7\u590d\u89c1\u4e60 \u00b7 \u4e0a\u6d77\u517b\u5fd7\u5eb7\u590d\u533b\u9662",
+    "en": "Speech Rehabilitation Observation",
+    "de": "Hospitation in der Sprachrehabilitation"
   },
   "journey_volunteer_title": {
-    "zh": "\u5fd7\u613f\u670d\u52a1",
-    "en": "Volunteer service",
-    "de": "Volunteer service"
+    "zh": "\u201c\u8001\u53cb\u9752\u5e74\u201d\u516c\u76ca\u5fd7\u613f\u670d\u52a1",
+    "en": "\u201c\u8001\u53cb\u9752\u5e74\u201d Volunteer Team",
+    "de": "Freiwilligenteam \u201e\u8001\u53cb\u9752\u5e74\u201c"
   },
   "journey_tutoring_title": {
-    "zh": "\u7ebf\u4e0a\u652f\u6559",
-    "en": "Online tutoring",
-    "de": "Online tutoring"
+    "zh": "\u201c\u601d\u6e90\u6d31\u6e90\u00b7\u7231\u5fc3\u76f8\u8fde\u201d\u7ebf\u4e0a\u652f\u6559",
+    "en": "Online Volunteer Teaching",
+    "de": "Ehrenamtlicher Online-Unterricht"
   },
   "journey_closing_script": {
     "zh": "Ongoing",
@@ -730,9 +730,9 @@ window.SITE_CONTENT = {
     "de": "Translation & Literature"
   },
   "focus_corpus_title": {
-    "zh": "\u8bed\u6599\u4e0e\u8bed\u8a00\u6d4b\u8bd5",
-    "en": "Corpus & Language Testing",
-    "de": "Corpus & Language Testing"
+    "zh": "\u8bed\u4e49\u6269\u5c55\u4e0e\u60c5\u611f\u5206\u6790",
+    "en": "Online Sentiment Analysis",
+    "de": "Sentimentanalyse im Internet"
   },
   "focus_values_script": {
     "zh": "Personal rhythm",
@@ -750,9 +750,9 @@ window.SITE_CONTENT = {
     "de": "Direction"
   },
   "focus_direction_title": {
-    "zh": "\u6301\u7eed\u5efa\u7acb\u6df1\u5ea6\u4e0e\u6e05\u6670\u5ea6",
-    "en": "Still building depth, with clarity.",
-    "de": "Still building depth, with clarity."
+    "zh": "\u8bed\u8a00\u3001\u8bbe\u8ba1\u4e0e\u8ba4\u77e5",
+    "en": "Language, Design & Rehabilitation",
+    "de": "Sprache, Design & Rehabilitation"
   },
   "value_synergy": {
     "zh": "Synergy",
@@ -783,5 +783,55 @@ window.SITE_CONTENT = {
     "zh": "Inquiry",
     "en": "Inquiry",
     "de": "Inquiry"
+  },
+  "portrait_alt": {
+    "zh": "\u5434\u6c9b\u6021 Olivia Wu \u4e2a\u4eba\u7167\u7247",
+    "en": "Portrait of Olivia Wu",
+    "de": "Portr\u00e4t von Olivia Wu"
+  },
+  "strength_research_4": {
+    "zh": "\u63a2\u7d22\u66ff\u4ee3\u6027\u53e3\u8bed\u8bc4\u4ef7\u65b9\u5f0f",
+    "en": "Research interest in alternative speaking assessment",
+    "de": "Interesse an alternativen Verfahren zur Bewertung m\u00fcndlicher Sprachkompetenz"
+  },
+  "journey_internship_year": {
+    "zh": "2025.06 \u2013 2025.08",
+    "en": "2025.06 \u2013 2025.08",
+    "de": "2025.06 \u2013 2025.08"
+  },
+  "journey_internship_title": {
+    "zh": "\u5927\u6a21\u578b\u7814\u53d1\u5b9e\u4e60 \u00b7 \u4e0a\u6d77\u9532\u5b5a\u667a\u80fd\u79d1\u6280",
+    "en": "Large-Model R&D Internship \u00b7 \u4e0a\u6d77\u9532\u5b5a\u667a\u80fd\u79d1\u6280",
+    "de": "Forschungs- und Entwicklungspraktikum zu gro\u00dfen KI-Modellen \u00b7 \u4e0a\u6d77\u9532\u5b5a\u667a\u80fd\u79d1\u6280"
+  },
+  "journey_internship_body": {
+    "zh": "\u6df1\u5165\u5b66\u4e60\u6df1\u5ea6\u5b66\u4e60\u7684\u57fa\u672c\u539f\u7406\uff0c\u63a2\u7d22\u4eba\u5de5\u667a\u80fd\u5728\u4e0d\u540c\u9886\u57df\u7684\u8bad\u7ec3\u4e0e\u5e94\u7528\uff0c\u4f7f\u7528\u7b97\u6cd5\u5904\u7406\u548c\u5206\u6790\u6570\u636e\u3002",
+    "en": "Explored the fundamentals of deep learning and the training and application of AI across different domains. Used algorithms to process and analyze data.",
+    "de": "Ich besch\u00e4ftigte mich mit den Grundlagen des Deep Learning sowie dem Training und Einsatz von KI in verschiedenen Bereichen. Dabei nutzte ich Algorithmen zur Verarbeitung und Analyse von Daten."
+  },
+  "journey_practice_title": {
+    "zh": "\u5b9e\u8df5\u7ecf\u9a8c",
+    "en": "Practice Experience",
+    "de": "Praxiserfahrung"
+  },
+  "focus_assessment_title": {
+    "zh": "\u66ff\u4ee3\u6027\u53e3\u8bed\u8bc4\u4ef7",
+    "en": "Alternative Speaking Assessment",
+    "de": "Alternative Bewertung m\u00fcndlicher Sprachkompetenz"
+  },
+  "focus_assessment_body": {
+    "zh": "\u63a2\u7d22\u53e3\u8bed\u80fd\u529b\u7684\u66ff\u4ee3\u6027\u8bc4\u4ef7\u65b9\u5f0f\uff0c\u5173\u6ce8\u8bed\u8a00\u5b66\u4e60\u4e0e\u6d4b\u8bd5\u4e2d\u7684\u4e0d\u540c\u8868\u8fbe\u9700\u6c42\u3002",
+    "en": "I am interested in alternative ways to assess speaking ability and how they can reflect different learning needs.",
+    "de": "Mich interessieren alternative Verfahren zur Bewertung m\u00fcndlicher Sprachkompetenz und die Frage, wie sie unterschiedlichen Lernbed\u00fcrfnissen gerecht werden k\u00f6nnen."
+  },
+  "value_insight": {
+    "zh": "\u6d1e\u5bdf",
+    "en": "Insight",
+    "de": "Beobachtungsgabe"
+  },
+  "resume_download": {
+    "zh": "\u4e0b\u8f7d\u7b80\u5386\uff08PDF\uff09",
+    "en": "Download r\u00e9sum\u00e9 (PDF)",
+    "de": "Lebenslauf herunterladen (PDF)"
   }
 };

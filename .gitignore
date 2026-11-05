@@ -1,0 +1,5 @@
+.venv/
+.preview/
+.resume-review/
+__pycache__/
+*.pyc
